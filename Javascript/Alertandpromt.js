@@ -1,0 +1,11 @@
+//alert("i think pak gonna destroy itself");
+//alert("this is a simeple alert");
+//alert("danger");
+console.log("this is simple log");
+console.error("rai rai ra ra");
+console.warn("this is a warn message");
+//prompt("hi i love you");
+let firstname=prompt("hi your name");
+console.log(firstname);
+let roll=prompt("enter roll");
+console.log(roll);
